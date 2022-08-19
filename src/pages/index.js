@@ -127,7 +127,7 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <h1 style={headingStyles}>
-        <h1>
+        <p>
           hello world Lorem, ipsum dolor sit amet consectetur adipisicing elit.
           Exercitationem nisi sit cumque nostrum hic incidunt saepe aperiam
           aliquam eos aliquid deleniti eligendi, autem qui, officia esse numquam
@@ -140,7 +140,7 @@ const IndexPage = () => {
           fugit doloremque animi id libero illum? Nam eaque rerum ut pariatur
           obcaecati veniam aut minus, illum debitis molestiae eos! Iure quam
           atque ex earum.
-        </h1>
+        </p>
         <img
           width={"100%"}
           src="https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg"
